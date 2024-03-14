@@ -14,7 +14,7 @@
 
  Excited about exploring a variety of technological topics, from **coding** to **data analysis**. 
 
- 👨‍💻 Have practical experience with web **development**, **SQL**, **Java**, and **Python**.
+ 👨‍💻 Have practical experience with **web development**, **SQL**, **Java**, and **Python**.
 
  </div>
  
