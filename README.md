@@ -44,7 +44,8 @@ A word guess game made with Python | https://github.com/AhmedDiab353/word_guessi
 
 
 <h2>📄 Certification:</h2>
-  -Thinkful 
+  -Thinkful |https://github.com/AhmedDiab353/Certification-in-Data-Analytics/blob/main/Data_analyrics%20certifcate.pdf
+  
   Certification in Data Analytics						          
 
 <!--
