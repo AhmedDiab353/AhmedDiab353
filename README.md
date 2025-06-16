@@ -40,7 +40,7 @@
 <h2>👨‍💻 Projects:</h2>
 Video Games Sales Data Visualization| https://github.com/AhmedDiab353/Video-Games-Sales-Data-Visualization
 
-A word guess game made with Python | https://github.com/AhmedDiab353/word_guessing_game
+A word-guessing game made with Python | https://github.com/AhmedDiab353/word_guessing_game
 
 Zagui Retail Case Study – Relational Database Design & Implementation  |  https://github.com/AhmedDiab353/Zagui-Retail-Case-Study
 
