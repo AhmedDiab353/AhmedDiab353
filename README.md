@@ -42,6 +42,8 @@ Video Games Sales Data Visualization| https://github.com/AhmedDiab353/Video-Game
 
 A word guess game made with Python | https://github.com/AhmedDiab353/word_guessing_game
 
+Zagui Retail Case Study – Relational Database Design & Implementation  |  https://github.com/AhmedDiab353/Zagui-Retail-Case-Study
+
 
 <h2>📄 Certification:</h2>
   -Thinkful |https://github.com/AhmedDiab353/Certification-in-Data-Analytics/blob/main/Data_analyrics%20certifcate.pdf
